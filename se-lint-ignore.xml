@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="body.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>aligns with original</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-043</code>
+			<reason>non-English book</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-039</code>
+			<reason>does not reflect accesibiilty limitaiton</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-038</code>
+			<reason>does not reflect accesibiilty limitaiton</reason>
+		</ignore>
+	</file>
+	<file path="uncopyright.xhtml">
+		<ignore>
+			<code>f-006</code>
+			<reason>not intended for SE hosting</reason>
+		</ignore>
+	</file>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-035</code>
+			<reason>not intended for SE hosting</reason>
+		</ignore>
+	</file>
+	<file path="body.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>special case, non-structure heading</reason>
+		</ignore>
+	</file>
+	<file path="body.xhtml">
+		<ignore>
+			<code>t-030</code>
+			<reason>context-specific convention</reason>
+		</ignore>
+	</file>
+	<file path="body.xhtml">
+		<ignore>
+			<code>t-032</code>
+			<reason>context-specific convention</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
